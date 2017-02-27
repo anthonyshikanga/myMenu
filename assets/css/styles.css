@@ -1,0 +1,145 @@
+#first_section {
+  text-align:center;
+  background-size:cover;
+  background:url(../../assets/img/beefBurger.jpg) no-repeat;
+}
+
+#new_section.jumbotron {
+  background:url(../../assets/img/landing.jpg);
+}
+
+i#menu_bar.glyphicon.glyphicon-menu-hamburger {
+  float:left;
+  font-size:xx-large;
+  color:white;
+}
+
+#column_4. {
+  background:url(../../assets/img/dinner.jpg);
+}
+
+#column_1 {
+}
+
+#column_3 {
+  font-family:'Niconne';
+  font-size:xx-large;
+  background-size:cover;
+  background:url(../../assets/img/lunch.jpg);
+  color:white;
+}
+
+#column_2 {
+  font-family:'Niconne';
+  font-size:xx-large;
+  background-size:cover;
+  background:url(../../assets/img/breakfast.jpg);
+  color:white;
+}
+
+#column_4 {
+  font-family:'Niconne';
+  font-size:xx-large;
+  background-size:cover;
+  background:url(../../assets/img/dinner.jpg);
+  color:white;
+}
+
+p#fast_food {
+  font-size:xx-large;
+}
+
+#new_section2 {
+  background:url(../../assets/img/foodsBg.jpg);
+}
+
+#mySection {
+  background-size:cover;
+}
+
+#p1 {
+  text-align:center;
+  font-size:large;
+  color:red;
+}
+
+#p2 {
+  text-align:center;
+  font-size:large;
+  color:red;
+}
+
+#happyFaces {
+}
+
+p3 {
+  text-align:center;
+  color:white;
+}
+
+#my-new-section {
+  background:url(../../assets/img/subscribe.jpg);
+}
+
+p3 {
+  color:red;
+}
+
+#p4 {
+  text-align:center;
+  color:white;
+}
+
+#emailField {
+  position:absolute;
+  left:40%;
+  padding-left:40px;
+}
+
+#myButton.btn.btn-primary.btn-sm {
+  padding-left:40px;
+  padding-right:40px;
+  left:60%;
+  position:absolute;
+}
+
+#myButton.btn.btn-default {
+  position:absolute;
+  left:65%;
+  padding-left:40px;
+  padding-right:40px;
+  color:white;
+}
+
+button#myButton.btn.btn-warning.btn-sm {
+  padding-left:40px;
+  padding-right:40px;
+  position:absolute;
+  left:60%;
+}
+
+#lastSection {
+  background-color:#f15a29;
+}
+
+#logo-image {
+  position:relative;
+  right:17%;
+  top:40%;
+}
+
+#my-menu {
+  text-align:center;
+  padding-top:20px;
+  position:relative;
+}
+
+#p5 {
+  text-align:center;
+}
+
+#social-icons {
+  position:relative;
+  left:40%;
+}
+
